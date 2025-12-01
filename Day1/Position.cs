@@ -34,6 +34,8 @@ public static class Position
     {
         var count = 0;
 
+        // I might of did it with maths but a for loop to increment and
+        // count how many times I pass zero seemed like a funny idea
         for (var i = 0; i < increment; i++)
         {
             if (isNegative)
