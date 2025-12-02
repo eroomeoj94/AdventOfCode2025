@@ -16,7 +16,7 @@ foreach (var range in ranges)
     var maxAndMin = range.Split('-');
     var min = long.Parse(maxAndMin[0]);
     var max = long.Parse(maxAndMin[1]);
-    var patterns = pattern.FindPatterns(min, max);
+    var patterns = Pattern.FindPatterns(min, max);
 
     foreach (var i in patterns)
     {
