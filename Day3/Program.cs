@@ -2,8 +2,8 @@
 using Day3;
 
 var sr = new StreamReader("Input.txt");
-var battery = new Battery();
-var total = 0;
+var battery = new BatteryPartTwo();
+long total = 0;
 var line = sr.ReadLine();
     
 while (line != null)

@@ -1,6 +1,6 @@
 namespace Day3;
 
-public class Battery
+public class BatteryPartOne
 {
     public int GetMaxVoltage(string input)
     {

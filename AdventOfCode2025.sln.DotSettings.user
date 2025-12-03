@@ -5,6 +5,7 @@
     &lt;Project Location="/Users/josephmoore/RiderProjects/AdventOfCode2025/Day2Tests" Presentation="&amp;lt;Day2&amp;gt;\&amp;lt;Day2Tests&amp;gt;" /&gt;
     &lt;TestAncestor&gt;
       &lt;TestId&gt;NUnit3x::2481D11D-0CAD-4C40-BF34-84FF00493C6C::net10.0::Day3Tests.Tests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::2481D11D-0CAD-4C40-BF34-84FF00493C6C::net10.0::Day3Tests.Part2Tests&lt;/TestId&gt;
     &lt;/TestAncestor&gt;
   &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
